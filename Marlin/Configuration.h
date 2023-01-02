@@ -61,7 +61,7 @@
 
 // Author info of this build printed to the host during boot and M115
 // AevumEdit I am me, and this is my printer
-#define STRING_CONFIG_H_AUTHOR "(Aevum Decessus, SKR3 EZ)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Aevum Decessus, SKR2)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
@@ -91,7 +91,7 @@
 // Choose the name from boards.h that matches your setup
 // AevumEdit Use the right board
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_BTT_SKR_V3_0_EZ
+  #define MOTHERBOARD BOARD_BTT_SKR_V2_0_REV_B
 #endif
 
 /**
