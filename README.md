@@ -1,5 +1,7 @@
 # Aevum's ender-5-plus setup
 
+Deprecated, superseded by https://github.com/AevumDecessus/Marlin-Ender5-Plus
+
 This is my customised build of Marlin for my heavily modified ender 5 plus
 
 Hardware changed on the printer follows
