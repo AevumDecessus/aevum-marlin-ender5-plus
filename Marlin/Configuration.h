@@ -1709,8 +1709,8 @@
 
 // The size of the printable area
 // AevumEdit set the correct bed size
-#define X_BED_SIZE 350
-#define Y_BED_SIZE 350
+#define X_BED_SIZE 340
+#define Y_BED_SIZE 340
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
