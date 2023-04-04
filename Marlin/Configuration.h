@@ -735,7 +735,8 @@
  * the issues involved, don't use bed PID until someone else verifies that your hardware works.
  * @section bed temp
  */
-//#define PIDTEMPBED
+// AevumEdit enable PID for the bed temperature
+#define PIDTEMPBED
 
 //#define BED_LIMIT_SWITCHING
 
@@ -2492,7 +2493,8 @@
  * SD Card support is disabled by default. If your controller has an SD slot,
  * you must uncomment the following option or it won't work.
  */
-//#define SDSUPPORT
+// AevumEdit Enable SD Support for auto0.g processing
+#define SDSUPPORT
 
 /**
  * SD CARD: ENABLE CRC
