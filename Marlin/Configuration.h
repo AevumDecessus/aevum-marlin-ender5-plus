@@ -1172,8 +1172,8 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-// AevumEdit set the Z(800) and E0(138) steps
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 800, 138 }
+// AevumEdit set the Z(800) and E0(389.83) steps
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 800,   389.83 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
